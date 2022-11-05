@@ -83,6 +83,12 @@ def download_list():
 def download(filename):
     return send_from_directory(SAVE_DIR, filename)
 
+@app.route('/restorecookies', methods=['GET'])
+def restore_cookies():
+    resp = make_response(render_template('home.html'))
+    resp.set_cookie("courses_download_list", json.dumps([]))
+    return resp
+
 if __name__ == '__main__':
     app.run()
 
