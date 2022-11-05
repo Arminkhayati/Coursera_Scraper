@@ -85,7 +85,7 @@ def download(filename):
 
 @app.route('/restorecookies', methods=['GET'])
 def restore_cookies():
-    resp = make_response(render_template('home.html'))
+    resp = make_response(redirect("/"))
     resp.set_cookie("courses_download_list", json.dumps([]))
     return resp
 
