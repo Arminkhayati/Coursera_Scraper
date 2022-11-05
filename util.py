@@ -153,8 +153,3 @@ def get_enrollment_count(soup):
         return enroll_count
     else:
         return "0"
-
-
-# category = "/browse/data-science"
-# courses = fetch_courses(category)
-# print(courses)

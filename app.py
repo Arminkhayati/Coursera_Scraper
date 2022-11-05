@@ -7,7 +7,7 @@ import multiprocessing
 from flask_executor import Executor
 import json
 from datetime import datetime
-
+import os
 
 
 
@@ -64,7 +64,9 @@ def download_list():
     json_resp = []
     for i in range(len(courses_download_list)):
         item = courses_download_list[i]
-        if not executor.futures.done(item["csv_id"]):
+        csv_file = item["csv_id"] + ".csv"
+        csv_file_path = os.path.join(SAVE_DIR, csv_file)
+        if (not executor.futures.done(item["csv_id"])) and (not os.path.isfile(csv_file_path)):
             item["message"] = "Refresh again few minutes later, Still processing...."
             item["status"] = executor.futures._state(item["csv_id"])
             item.pop("download_url", 0)
