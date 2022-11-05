@@ -56,7 +56,15 @@ def fetch_courses():
     resp.set_cookie("courses_download_list", json.dumps(courses_download_list))
     return resp
 
-
+# Flask==2.2.2
+# Flask_WTF==1.0.1
+# Flask-Executor==1.0.0
+# joblib==1.2.0
+# pandas==1.4.4
+# beautifulsoup4==4.11.1
+# json5==0.9.6
+# WTForms==3.0.1
+# gunicorn==20.1.0
 
 @app.route('/downloadlist', methods=['GET'])
 def download_list():
