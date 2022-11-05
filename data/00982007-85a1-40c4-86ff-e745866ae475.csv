@@ -1,0 +1,432 @@
+link,title,enroll_count,provider,num_ratings,description
+https://www.coursera.org/professional-certificates/google-it-support,Google IT Support,1105233,Google,146123,"Prepare for a career in the high-growth field of IT, no experience or degree required. Get professional training designed by Google and get on the fast-track to a competitively paid job. There are 400,000 U.S. job openings in IT and a $52,000 median entry-level salary in IT support.¹
+
+Over 5 courses, learn in-demand skills that prepare you for an entry-level job. Upon completion, you can directly apply for jobs with Google and over 150 U.S. employers, including Walmart, Best Buy, and Astreya.
+
+75% of Google Career Certificate Graduates in the United States report an improvement in their career trajectory (e.g. new job or career, promotion or raise) within 6 months of certificate completion²
+
+This program also prepares you for the CompTIA A+ exams, the industry standard certification for IT—you’ll earn a dual credential when you complete both.
+
+This program is ACE® approved—when you complete, you can earn up to 12 college credits, the equivalent of 4 associate degree-level courses.
+
+If you’re interested in building on your IT foundations, check out the Google IT Automation with Python Professional Certificate.
+
+Check out all Google Career Certificates here.
+
+¹US Burning Glass Labor Insight Report salary data (median with 0-5 years experience) and job opening data. Data for job roles relevant to featured programs (4/01/2021 - 3/31/22).
+
+²Based on program graduate survey responses, United States 2021"
+https://www.coursera.org/learn/foundations-data,"Foundations: Data, Data, Everywhere",1303388,Google,65871,"This is the first course in the Google Data Analytics Certificate. These courses will equip you with the skills you need to apply to introductory-level data analyst jobs. Organizations of all kinds need data analysts to help them improve their processes, identify opportunities and trends, launch new products, and make thoughtful decisions. In this course, you’ll be introduced to the world of data analytics through hands-on curriculum developed by Google. The material shared covers plenty of key data analytics topics, and it’s designed to give you an overview of what’s to come in the Google Data Analytics Certificate. Current Google data analysts will instruct and provide you with hands-on ways to accomplish common data analyst tasks with the best tools and resources.Learners who complete this certificate program will be equipped to apply for introductory-level jobs as data analysts. No previous experience is necessary.
+
+By the end of this course, you will:
+- Gain an understanding of the practices and processes used by a junior or associate data analyst in their day-to-day job. 
+- Learn about key analytical skills (data cleaning, data analysis, data visualization) and tools (spreadsheets, SQL, R programming, Tableau) that you can add to your professional toolbox. 
+- Discover a wide variety of terms and concepts relevant to the role of a junior data analyst, such as the data life cycle and the data analysis process. 
+- Evaluate the role of analytics in the data ecosystem. 
+- Conduct an analytical thinking self-assessment. 
+- Explore job opportunities available to you upon program completion, and learn about best practices in the job search."
+https://www.coursera.org/learn/technical-support-fundamentals,Technical Support Fundamentals,1282262,Google,127729,"This course is the first of a series that aims to prepare you for a role as an entry-level IT Support Specialist. In this course, you’ll be introduced to the world of Information Technology, or IT. You’ll learn about the different facets of Information Technology, like computer hardware, the Internet, computer software, troubleshooting, and customer service. This course covers a wide variety of topics in IT that are designed to give you an overview of what’s to come in this certificate program.By the end of this course, you’ll be able to:
+● understand how the binary system works
+● assemble a computer from scratch
+● choose and install an operating system on a computer
+● understand what the Internet is, how it works, and the impact it has in the modern world
+● learn how applications are created and how they work under the hood of a computer
+● utilize common problem-solving methodologies and soft skills in an Information Technology setting"
+https://www.coursera.org/specializations/key-technologies-for-business,Key Technologies for Business,13231,IBM Skills Network,1166,"In this Specialization, we will cover 3 key technologies that are foundational and driving significant growth and innovation. These are Cloud Computing, Data Science, and Artificial Intelligence (AI).
+
+Technology is essential for the future of business. Almost any organization that wants to modernize or get ahead, and anyone working there, needs to understand and leverage these essential technologies.
+
+The courses in this Specialization provide foundational knowledge of Cloud, Data and AI, including business drivers behind their growth, the value they provide, their applications and use cases, and an understanding of how these technologies work. You will not only become familiar with the buzzwords associated with these technologies, but also experience them in action and develop hands-on skills to start working with them.
+
+This Specialization is suitable for a variety of learners who are beginners with these technologies, including managers and executives, professionals who want to upskill, and students getting ready to start a career.
+
+There is no special prior knowledge or hardware required. The only pre-requisites are basic computer literacy, device with a modern web browser with internet connectivity, and motivation to self-learn online."
+https://www.coursera.org/professional-certificates/google-it-automation,Google IT Automation with Python,485471,Google,28839,"This beginner-level, six-course certificate, developed by Google, is designed to provide IT professionals with in-demand skills -- including Python, Git, and IT automation -- that can help you advance your career.
+
+Knowing how to write code to solve problems and automate solutions is a crucial skill for anybody in IT. Python, in particular, is now the most in-demand programming language by employers.
+
+This program builds on your IT foundations to help you take your career to the next level. It’s designed to teach you how to program with Python and how to use Python to automate common system administration tasks. You'll also learn to use Git and GitHub, troubleshoot and debug complex problems, and apply automation at scale by using configuration management and the Cloud.
+
+This certificate can be completed in about 6 months and is designed to prepare you for a variety of roles in IT, like more advanced IT Support Specialist or Junior Systems Administrator positions. Upon completion, you can share your information with potential employers, like Walmart, Sprint, Hulu, Bank of America, Google (of course!), and more.
+
+We recommend that you have Python installed on your machine. For some courses, you’ll need a computer where you can install Git or ask your administrator to install it for you.
+
+If you’d like to learn the fundamentals of IT support, check out the beginner level Google IT Support Professional Certificate.
+
+Check out all Google Career Certificates here."
+https://www.coursera.org/professional-certificates/google-cloud-developer,Preparing for Google Cloud Certification: Cloud Developer,0,Google Cloud,57,"A Cloud Developer designs, builds, analyzes, and maintains cloud-native applications. This learning path guides you through a curated collection of on-demand courses, labs, and skill badges that provide you with real-world, hands-on experience using Google Cloud technologies essential to the Cloud Developer role. Once you complete the path, check out the Google Cloud Developer certification to take the next steps on your professional journey."
+https://www.coursera.org/professional-certificates/sre-devops-engineer-google-cloud,Preparing for Google Cloud Certification: Cloud DevOps Engineer,27448,Google Cloud,2130,"This program provides the skills you need to advance your career as a data engineer and provides training to support your preparation for the industry-recognized Google Cloud Professional DevOps Engineer certification. 87% of Google Cloud certified users feel more confident in their cloud skills.You'll also have the opportunity to practice key job skills using Google Cloud to build software delivery pipelines, deploy and monitor services, and manage and learn from incidents. You will learn to apply SRE principles to a service, techniques for monitoring, troubleshooting, and improving infrastructure and application performance among other things.
+
+Your journey to Google Cloud certification:
+
+1) Complete the Coursera Site Reliability Engineering and DevOps Professional Certificate
+
+2) Review other recommended learning resources for the Google Cloud Professional Cloud DevOps Engineer certification exam
+
+3) Review the Professional Cloud DevOps Engineer exam guide
+
+4) Take the Professional Cloud DevOps Engineer practice exam
+
+5) Register for the Google Cloud certification exam (Can be taken remotely or at a test center)"
+https://www.coursera.org/learn/python-crash-course,Crash Course on Python,697499,Google,27811,"This course is designed to teach you the foundations in order to write simple programs in Python using the most common structures. No previous exposure to programming is needed. By the end of this course, you'll understand the benefits of programming in IT roles; be able to write simple programs using Python; figure out how the building blocks of programming fit together; and combine all of this knowledge to solve a complex programming problem. We'll start off by diving into the basics of writing a computer program. Along the way, you’ll get hands-on experience with programming concepts through interactive exercises and real-world examples. You’ll quickly start to see how computers can perform a multitude of tasks — you just have to write code that tells them what to do."
+https://www.coursera.org/professional-certificates/gcp-cloud-architect,Preparing for Google Cloud Certification: Cloud Architect,40541,Google Cloud,10128,"Google Cloud Professional Cloud Architect certification was ranked #2 on Global Knowledge's list of 15 top-paying certifications in 2021! Enroll now! to prepare!
+
+This program provides the skills you need to advance your career in cloud architecture and provides a pathway to earn the industry-recognized Google Cloud Professional Cloud Architect certification. You'll deploy solution elements, including infrastructure components such as networks, systems and applications services, and you'll gain real world experience through hands-on Qwiklabs projects that you can share with potential employers.
+
+You'll also have the opportunity to practice key job skills, including case analysis, identifying technical watchpoints, and developing proposed solutions. Test your basic abilities with Activity Tracking Challenge Labs. For learners looking to get certified, this program will provide sample questions similar to those on the exam, including solutions and practice exam quizzes that simulate the exam-taking experience.
+
+Upon successful completion of this program, you will earn a certificate of completion to share with your professional network and potential employers. If you'd like to earn your Google Cloud certification, you will need to register for and pass the certification exam. Please note that this program helps equip you with the skills you need to take the certification exam, but the certification and certification fee is not included in the cost of this training program."
+https://www.coursera.org/professional-certificates/cloud-engineering-gcp,Preparing for Google Cloud Certification: Cloud Engineer,33877,Google Cloud,8887,"This program provides the skills you need to advance your career in cloud architecture and provides a pathway to earn the industry-recognized Google Cloud Associate Cloud Engineer certification. Through a combination of presentations, demos, and labs, you'll explore and deploy solution elements, including infrastructure components such as networks, systems and applications services; and you'll gain real world experience through a number of hands-on Qwiklabs projects that you can share with potential employers.
+
+You'll also have the opportunity to practice key job skills, such as setting up a cloud environment and configuring and deploying a solution in the cloud. For learners looking to get certified, this program will also provide sample questions similar to those on the exam, including solutions and practice exam quizzes that simulates the exam-taking experience.
+
+Upon successful completion of this program, you will earn a certificate of completion to share with your professional network and potential employers. If you'd like to earn your Google Cloud certification, you will need to register for and pass the certification exam. Please note that this program helps equip you with the skills you need to take the certification exam, but the certification and certification fee is not included in the cost of this training program."
+https://www.coursera.org/specializations/gcp-architecture,Architecting with Google Compute Engine,74340,Google Cloud,26087,"87% of Google Cloud certified users feel more confident in their cloud skills. This program provides the skills you need to advance your career, and training to support your preparation for the industry-recognized Google Cloud Associate Cloud Engineer certification.Your journey to Google Cloud certification:
+
+1) Complete the Coursera Cloud Engineering Professional Certificate
+
+2) Review other recommended resources for the Google Cloud Associate Cloud Engineer certification exam
+
+3) Review the Associate Cloud Engineer exam guide
+
+4) Complete Associate Cloud Engineer sample questions
+
+5) Register for the Google Cloud certification exam (remotely or at a test center)
+
+Applied Learning Project
+
+This professional certificate incorporates hands-on labs using our Qwiklabs platform.
+
+These hands on components will let you apply the skills you learn. Projects incorporate Google Cloud Platform products, used within Qwiklabs. You will gain practical hands-on experience with the concepts explained throughout the modules."
+https://www.coursera.org/professional-certificates/devops-and-software-engineering,IBM DevOps and Software Engineering,16099,IBM Skills Network,1112,"DevOps professionals are in high demand! According to a recent GitLab report, DevOps skills are expected to grow 122% over the next five years, making it one of the fastest growing skills in the workforce.
+
+This certificate will equip you with the key concepts and technical know-how to build your skills and knowledge of DevOps practices, tools and technologies and prepare you for an entry-level role in Software Engineering.
+
+The courses in this program will help you develop skill sets in a variety of DevOps philosophies and methodologies including Agile Development, Scrum Methodology, Cloud Native Architecture, Behavior and Test-Driven Development, and Zero Downtime Deployments.
+
+You will learn to program with the Python language and Linux shell scripts, create projects in GitHub, containerize and orchestrate your applications using Docker, Kubernetes & OpenShift, compose applications with microservices, employ serverless technologies, perform continuous integration and delivery (CI/CD), develop testcases, ensure your code is secure, and monitor & troubleshoot your cloud deployments.
+
+Guided by experts at IBM, you will be prepared for success. Labs and projects in this certificate program are designed to equip job-ready hands-on skills that will help you launch a new career in a highly in-demand field.
+
+This professional certificate is suitable for both - those who have none or some programming experience, as well as those with and without college degrees."
+https://www.coursera.org/professional-certificates/google-it-support,Google IT Support,1105233,Google,146123,"Prepare for a career in the high-growth field of IT, no experience or degree required. Get professional training designed by Google and get on the fast-track to a competitively paid job. There are 400,000 U.S. job openings in IT and a $52,000 median entry-level salary in IT support.¹Over 5 courses, learn in-demand skills that prepare you for an entry-level job. Upon completion, you can directly apply for jobs with Google and over 150 U.S. employers, including Walmart, Best Buy, and Astreya.
+
+75% of Google Career Certificate Graduates in the United States report an improvement in their career trajectory (e.g. new job or career, promotion or raise) within 6 months of certificate completion²
+
+This program also prepares you for the CompTIA A+ exams, the industry standard certification for IT—you’ll earn a dual credential when you complete both.
+
+This program is ACE® approved—when you complete, you can earn up to 12 college credits, the equivalent of 4 associate degree-level courses.
+
+If you’re interested in building on your IT foundations, check out the Google IT Automation with Python Professional Certificate.
+
+Check out all Google Career Certificates here.
+
+¹US Burning Glass Labor Insight Report salary data (median with 0-5 years experience) and job opening data. Data for job roles relevant to featured programs (4/01/2021 - 3/31/22).
+
+²Based on program graduate survey responses, United States 2021"
+https://www.coursera.org/specializations/key-technologies-for-business,Key Technologies for Business,13231,IBM Skills Network,1166,"In this Specialization, we will cover 3 key technologies that are foundational and driving significant growth and innovation. These are Cloud Computing, Data Science, and Artificial Intelligence (AI).
+
+Technology is essential for the future of business. Almost any organization that wants to modernize or get ahead, and anyone working there, needs to understand and leverage these essential technologies.
+
+The courses in this Specialization provide foundational knowledge of Cloud, Data and AI, including business drivers behind their growth, the value they provide, their applications and use cases, and an understanding of how these technologies work. You will not only become familiar with the buzzwords associated with these technologies, but also experience them in action and develop hands-on skills to start working with them.
+
+This Specialization is suitable for a variety of learners who are beginners with these technologies, including managers and executives, professionals who want to upskill, and students getting ready to start a career.
+
+There is no special prior knowledge or hardware required. The only pre-requisites are basic computer literacy, device with a modern web browser with internet connectivity, and motivation to self-learn online."
+https://www.coursera.org/professional-certificates/ibm-data-engineer,IBM Data Engineering,27428,IBM Skills Network,2230,"This Professional Certificate is for anyone who wants to develop job-ready skills, tools, and a portfolio for an entry-level data engineer position. Throughout the self-paced online courses, you will immerse yourself in the role of a data engineer and acquire the essential skills you need to work with a range of tools and databases to design, deploy, and manage structured and unstructured data.
+
+By the end of this Professional Certificate, you will be able to explain and perform the key tasks required in a data engineering role. You will use the Python programming language and Linux/UNIX shell scripts to extract, transform and load (ETL) data. You will work with Relational Databases (RDBMS) and query data using SQL statements. You will use NoSQL databases and unstructured data. You will be introduced to Big Data and work with Big Data engines like Hadoop and Spark. You will gain experience with creating Data Warehouses and utilize Business Intelligence tools to analyze and extract insights.
+
+This program does not require any prior data engineering, or programming experience.
+
+This program is ACE® recommended—when you complete, you can earn up to 12 college credits."
+https://www.coursera.org/professional-certificates/devops-and-software-engineering,IBM DevOps and Software Engineering,16099,IBM Skills Network,1112,"DevOps professionals are in high demand! According to a recent GitLab report, DevOps skills are expected to grow 122% over the next five years, making it one of the fastest growing skills in the workforce.
+
+This certificate will equip you with the key concepts and technical know-how to build your skills and knowledge of DevOps practices, tools and technologies and prepare you for an entry-level role in Software Engineering.
+
+The courses in this program will help you develop skill sets in a variety of DevOps philosophies and methodologies including Agile Development, Scrum Methodology, Cloud Native Architecture, Behavior and Test-Driven Development, and Zero Downtime Deployments.
+
+You will learn to program with the Python language and Linux shell scripts, create projects in GitHub, containerize and orchestrate your applications using Docker, Kubernetes & OpenShift, compose applications with microservices, employ serverless technologies, perform continuous integration and delivery (CI/CD), develop testcases, ensure your code is secure, and monitor & troubleshoot your cloud deployments.
+
+Guided by experts at IBM, you will be prepared for success. Labs and projects in this certificate program are designed to equip job-ready hands-on skills that will help you launch a new career in a highly in-demand field.
+
+This professional certificate is suitable for both - those who have none or some programming experience, as well as those with and without college degrees."
+https://www.coursera.org/specializations/data-engineering-foundations,Data Engineering Foundations,8720,IBM Skills Network,800,"Data engineering is one of the fastest-growing tech occupations, where the demand for skilled data engineers far outweighs the supply. The goal of data engineering is to make quality data available for fact-finding and data-driven decision making. This Specialization from IBM will help anyone interested in pursuing a career in data engineering by teaching fundamental skills to get started in this field. No prior data engineering experience is required to succeed in this Specialization.The Specialization consists of 5 self-paced online courses covering skills required for data engineering, including the data engineering ecosystem and lifecycle, Python, SQL, and Relational Databases. You will learn these data engineering prerequisites through engaging videos and hands-on practice using real tools and real-world databases. You'll develop your understanding of data engineering, gain skills that can be applied directly to a data career, and build the foundation of your data engineering career.
+
+Upon successfully completing these courses, you will have the practical knowledge and experience to delve deeper into data engineering and work on more advanced data engineering projects."
+https://www.coursera.org/professional-certificates/ibm-full-stack-cloud-developer,IBM Full Stack Software Developer,19406,IBM Skills Network,2301,"This Professional Certificate will equip you with all the key skills and technical know-how to kickstart your career as a Full-Stack Cloud Native Application Developer. Guided by experts at IBM, you will learn to build your own cloud-based applications and practice working with the technologies behind them. This program consists of ample instructional content as well as hands-on exercises and projects designed to hone your skills and help you build your portfolio.No prior programming experience or Cloud background is required. You'll skill up with the tools and technologies that successful software developers use to build, deploy, test, run, and manage Full Stack Cloud Native applications, giving you the practical skills to begin a new career in a highly in-demand area.
+
+The courses in this program will help you develop skill sets in a variety of technologies including: Cloud foundations, HTML, CSS, JavaScript, GitHub, Node.js, React, Cloud Native practices, DevOps, CI/CD, Containers, Docker, Kubernetes, OpenShift, Istio, Python programming, Databases, SQL, NoSQL, Django ORM, Bootstrap, Application Security, Microservices, Serverless computing, and more.
+
+After completing the program, you will have developed several applications using front-end and back-end technologies and deployed them on a cloud platform using Cloud Native methodologies.
+
+This program is ACE® recommended—when you complete, you can earn up to 18 college credits."
+https://www.coursera.org/specializations/software-engineering-fundamentals,Applied Software Engineering Fundamentals,1625,IBM Skills Network,101,"If you want to enter the exciting world of software development, this Software Engineering Foundations Specialization is for you. No prior degrees or knowledge of programming or application development are necessary. Software Developers are in great demand earning a median salary of US$110,140 per year according to the US Bureau of Labor and Statistics. The field is growing at a rate of 22% making it a great time to start a career in software engineering.. The self-paced courses in this program provide the foundations to prepare for a wide range of IT & software development related careers, including web development, mobile application development, front-end, back-end, and full stack application development, software testing & quality assurance (QA), as well as DevOps engineering. This specialization is full of engaging videos, hands-on labs, and real-world projects that explore fundamental programming principles and foundations of design, architecture, and deployment; the software development lifecycle; Git and GitHub repositories; using the Linux terminal and creating Bash shell scripts to automate a variety of tasks; and coding with the Python programming language. The program is suitable for those new to software engineering or for those who would like a review of software engineering fundamentals. It prepares you with an introduction to the culture, technology, and job-ready skills needed to become successful in software engineering.   "
+https://www.coursera.org/professional-certificates/data-warehouse-engineering,IBM Data Warehouse Engineer,3084,IBM Skills Network,215,"This Professional Certificate is intended to help you develop the job-ready skills and portfolio for an entry-level Business Intelligence (BI) or Data Warehousing Engineering position. Throughout the online courses in this program, you will immerse yourself in the in-demand role of a Data Warehouse Engineer and acquire the essential skills you need to work with a range of tools and databases to design, deploy, operationalize and manage Enterprise Data Warehouses (EDW).
+
+By the end of this Professional Certificate, you will be able to perform the key tasks required in a data warehouse engineering role. You will work with Relational Database Management Systems (RDBMS) and query data using SQL statements.
+
+You will use Linux/UNIX shell scripts to automate repetitive tasks, and build data pipelines with tools like Apache Airflow and Kafka to Extract, Transform and Load (ETL) data. You will gain experience with managing databases and data warehouses.
+
+Finally, you will design and populate data warehouse systems and utilize Business Intelligence tools to analyze and extract insights using reports and dashboards.
+
+This program is suitable for anyone with a passion for learning and is suitable for you whether you have a college degree or not and does not require any prior data engineering, or programming experience."
+https://www.coursera.org/specializations/bi-foundations-sql-etl-data-warehouse,"BI Foundations with SQL, ETL and Data Warehousing",3264,IBM Skills Network,157,"Professionals with SQL, ETL, Enterprise Data Warehousing (EDW), Business Intelligence (BI) and Data Analysis skills are in great demand. This Specialization is designed to provide career relevant knowledge and skills for anyone wanting to pursue a job role in domains such as Data Engineering, Data Management, BI or Data Analytics. The program consists of four online courses. In the first course you learn the basics of SQL and how to query relational databases with this powerful language. Next you learn to use essential Linux commands and create basic shell scripts. You continue your journey by learning to build and automate ETL, ELT and data pipelines using BASH scripts, Apache Airflow and Apache Kafka. In the final course you learn about Data Lakes, Data Marts as well as work with Data Warehouses. You also create interactive reports and dashboards to derive insights from data in your warehouse. Note that this specialization has a significant emphasis on hands-on practice employing real tools used by data professionals. Every course has numerous hands-on labs as well as a course project. While you will benefit from some prior programming experience, it is not absolutely necessary for this course. The only pre-requisites for this specialization are basic computer and data literacy, and a passion to self-learn online."
+https://www.coursera.org/professional-certificates/google-it-automation,Google IT Automation with Python,485471,Google,28839,"This beginner-level, six-course certificate, developed by Google, is designed to provide IT professionals with in-demand skills -- including Python, Git, and IT automation -- that can help you advance your career.
+
+Knowing how to write code to solve problems and automate solutions is a crucial skill for anybody in IT. Python, in particular, is now the most in-demand programming language by employers.
+
+This program builds on your IT foundations to help you take your career to the next level. It’s designed to teach you how to program with Python and how to use Python to automate common system administration tasks. You'll also learn to use Git and GitHub, troubleshoot and debug complex problems, and apply automation at scale by using configuration management and the Cloud.
+
+This certificate can be completed in about 6 months and is designed to prepare you for a variety of roles in IT, like more advanced IT Support Specialist or Junior Systems Administrator positions. Upon completion, you can share your information with potential employers, like Walmart, Sprint, Hulu, Bank of America, Google (of course!), and more.
+
+We recommend that you have Python installed on your machine. For some courses, you’ll need a computer where you can install Git or ask your administrator to install it for you.
+
+If you’d like to learn the fundamentals of IT support, check out the beginner level Google IT Support Professional Certificate.
+
+Check out all Google Career Certificates here."
+https://www.coursera.org/professional-certificates/sre-devops-engineer-google-cloud,Preparing for Google Cloud Certification: Cloud DevOps Engineer,27448,Google Cloud,2130,"This program provides the skills you need to advance your career as a data engineer and provides training to support your preparation for the industry-recognized Google Cloud Professional DevOps Engineer certification. 87% of Google Cloud certified users feel more confident in their cloud skills.You'll also have the opportunity to practice key job skills using Google Cloud to build software delivery pipelines, deploy and monitor services, and manage and learn from incidents. You will learn to apply SRE principles to a service, techniques for monitoring, troubleshooting, and improving infrastructure and application performance among other things.
+
+Your journey to Google Cloud certification:
+
+1) Complete the Coursera Site Reliability Engineering and DevOps Professional Certificate
+
+2) Review other recommended learning resources for the Google Cloud Professional Cloud DevOps Engineer certification exam
+
+3) Review the Professional Cloud DevOps Engineer exam guide
+
+4) Take the Professional Cloud DevOps Engineer practice exam
+
+5) Register for the Google Cloud certification exam (Can be taken remotely or at a test center)"
+https://www.coursera.org/professional-certificates/google-cloud-developer,Preparing for Google Cloud Certification: Cloud Developer,0,Google Cloud,57,"A Cloud Developer designs, builds, analyzes, and maintains cloud-native applications. This learning path guides you through a curated collection of on-demand courses, labs, and skill badges that provide you with real-world, hands-on experience using Google Cloud technologies essential to the Cloud Developer role. Once you complete the path, check out the Google Cloud Developer certification to take the next steps on your professional journey."
+https://www.coursera.org/learn/keamanan-it-pertahanan-terhadap-kejahatan-digital,Keamanan IT: Pertahanan terhadap Kejahatan Digital,6763,Google,539,"Pelatihan ini membahas berbagai macam konsep, alat, dan praktik terbaik dari keamanan IT. Di sini akan diperkenalkan ancaman dan serangan dan berbagai cara kemunculan mereka. Kami akan memberi Anda beberapa latar belakang algoritma enkripsi dan bagaimana mereka digunakan untuk melindungi data. Kemudian, kami akan membahas lebih jauh tentang “tiga A”dari keamanan informasi: authentication, authorization, accounting. Kami juga akan membahas solusi keamanan jaringan, mulai dari firewall hingga opsi enkripsi Wifi. Pelatihan ini diakhiri dengan menyatukan semua elemen ini ke dalam arsitektur keamanan yang berlapis-lapis dan mendalam, diikuti dengan rekomendasi tentang cara mengintegrasikan budaya keamanan ke dalam organisasi atau tim Anda.Di akhir pelatihan ini, Anda akan memahami:
+● bagaimana cara kerja berbagai algoritma dan teknik enkripsi beserta semua manfaat dan keterbatasannya.
+● berbagai sistem dan jenis autentikasi.
+● perbedaan antara autentikasi dan otorisasi.
+● bagaimana mengevaluasi potensi risiko dan merekomendasikan cara untuk mengurangi risiko.
+● praktik baik untuk mengamankan jaringan.
+● bagaimana membantu orang lain untuk memahami konsep keamanan dan melindungi diri mereka sendiri."
+https://www.coursera.org/learn/dasar-dasar-analitik-data-data-data-di-mana-mana,"Dasar-dasar Analitik Data: Data, Data di Mana-mana",9109,Google,728,"Ini adalah materi pertama dalam program Sertifikasi Data Analitik Google. Materi ini akan membekali Anda dengan keterampilan yang Anda butuhkan untuk melamar kerja sebagai analis data tingkat pemula. Semua jenis organisasi membutuhkan analis data untuk memperbaiki proses operasional mereka, mengidentifikasi peluang dan tren, meluncurkan produk baru, dan membuat keputusan yang tepat. Di materi ini, Anda akan diperkenalkan dengan dunia analitik data berdasarkan kurikulum yang langsung dikembangkan oleh Google. Materi yang dibahas mencakup berbagai topik penting dalam analisis data, dan dirancang untuk memberi gambaran umum tentang apa yang akan Anda pelajari dalam program Sertifikasi Analitik Data Google. Analis data Google akan mengajarkan dan memberi tahu Anda cara untuk menyelesaikan tugas analis data yang umum dengan menggunakan alat dan sumber daya terbaik.Peserta didik yang menyelesaikan program sertifikasi ini akan memiliki bekal yang cukup untuk melamar kerja sebagai analis data tingkat pemula. Tidak membutuhkan pengalaman apa pun.
+
+Di akhir materi ini, Anda akan
+- Mendapatkan pemahaman tentang praktik dan proses yang digunakan oleh analis data junior sehari-hari. 
+- Mempelajari tentang keterampilan analitis utama (pembersihan data, analisis data, visualisasi data) dan alat (spreadsheet, SQL, pemrograman R, Tableau) yang dapat ditambahkan di set perangkat profesional Anda. 
+- Menemukan berbagai macam istilah dan konsep yang berhubungan dengan pekerjaan analis data junior, seperti siklus hidup data dan proses analisis data. 
+- Mengevaluasi peran analitik dalam ekosistem data. 
+- Melakukan penilaian mandiri dengan pola pikir analitis. 
+- Menelusuri peluang kerja yang tersedia setelah Anda menyelesaikan  program ini, dan mempelajari tentang praktik baik dalam pencarian kerja."
+https://www.coursera.org/learn/fundamentos-do-suporte-tecnico,Fundamentos do Suporte Técnico,28962,Google,3473,"Ele é o primeiro de uma série que visa prepará-lo para entrar no mercado de TI como especialista de suporte técnico. Neste curso, apresentaremos o mundo da Tecnologia da Informação, ou TI. Você aprenderá sobre diversas facetas da Tecnologia da Informação, como hardware, software, internet, resolução de problemas e atendimento ao cliente. Mostraremos como uma entrevista técnica costuma transcorrer e daremos dicas de como se preparar melhor para esse tipo de ocasião. Este curso abrange uma vasta gama de tópicos da TI, sendo projetado para mostrar um panorama do que está por vir neste programa de certificado.Ao final deste curso, você será capaz de:
+● entender o funcionamento do sistema binário.
+● montar um computador do zero.
+● escolher e instalar um sistema operacional em um computador.
+● entender o que é a internet, seu funcionamento e o seu impacto no mundo moderno.
+● aprender como os aplicativos são criados e como eles funcionam internamente no computador.
+● empregar métodos comuns de resolução de problemas e habilidades interpessoais em um ambiente de Tecnologia da Informação."
+https://www.coursera.org/learn/seguranca-de-it,Segurança de TI: Defesa Contra as Artes Obscuras do Mundo Digital,4921,Google,425,"Este curso aborda uma série de conceitos, ferramentas e práticas recomendadas de segurança de TI. Nele, temos uma introdução às ameaças e ataques e suas muitas formas de se manifestar. Daremos a você uma base de conhecimento sobre algoritmos de criptografia e como eles são usados para proteger dados. Depois, vamos estudar a fundo os três tipos de segurança da informação: autenticação, autorização e registro. Além disso, vamos abordar soluções de segurança de rede, de firewalls a opções de criptografia Wi-Fi. Por fim, vamos analisar o modelo de segurança do Chrome OS em um estudo de caso. O curso é encerrado com a junção de todos esses elementos em uma arquitetura de segurança detalhada e multicamada, seguida de recomendações sobre como integrar uma cultura de segurança à sua empresa ou equipe.Ao fim deste curso, você entenderá:
+● como vários algoritmos e técnicas de criptografia funcionam, além de seus benefícios e limitações.
+● vários sistemas e tipos de autenticação.
+● a diferença entre autenticação e autorização.
+● como avaliar os riscos potenciais e recomendar maneiras de atenuá-los.
+● práticas recomendadas para proteger uma rede.
+● como ajudar as pessoas a entender os conceitos de segurança e se proteger."
+https://www.coursera.org/learn/essential-cloud-infrastructure-foundation-id,Essential Cloud Infrastructure: Foundation dalam bahasa Indonesia,1912,Google Cloud,366,"Kursus akselerasi sesuai permintaan selama 1 minggu ini memperkenalkan peserta pada infrastruktur dan layanan platform yang komprehensif dan fleksibel yang disediakan oleh Google Cloud Platform. Melalui kombinasi presentasi video, demo, dan uji coba lab langsung, peserta akan mempelajari dan men-deploy berbagai elemen solusi, termasuk komponen infrastruktur seperti jaringan, mesin virtual, dan layanan aplikasi. Anda akan mempelajari cara menggunakan Google Cloud Platform melalui Console dan Cloud Shell. Anda juga akan mempelajari peran arsitek cloud, pendekatan desain infrastruktur, dan konfigurasi networking virtual dengan Virtual Private Cloud (VPC), Project, Jaringan, Subnetwork, alamat IP, Rute, dan Aturan firewall.Prasyarat
+ Untuk mendapatkan manfaat optimal dari kursus ini, peserta diharapkan telah:
+ • Menyelesaikan kursus Konsep Dasar Google Cloud Platform (Infrastruktur Inti atau AWS Professionals) atau yang setara
+ • Menguasai kemahiran dasar dalam fitur command-line dan lingkungan sistem operasi Linux
+ • Memiliki pengetahuan tentang Operasi Sistem termasuk men-deploy dan mengelola aplikasi, baik pada lingkungan lokal maupun cloud publik"
+https://www.coursera.org/learn/dasar-dasar-dukungan-teknis,Dasar-Dasar Dukungan Teknis,19833,Google,2536,"Materi ini adalah rangkaian pertama dari keseluruhan program pelatihan yang akan membantu Anda untuk berperan sebagai IT Support Specialist tingkat pemula. Dalam kursus ini, Anda akan diperkenalkan ke dunia Teknologi Informasi, atau IT. Anda akan mempelajari berbagai aspek Teknologi Informasi, seperti perangkat keras komputer, Internet, perangkat lunak komputer, pemecahan masalah, dan layanan pelanggan. Pelatihan ini mencakup berbagai topik dalam dunia IT yang dirancang untuk memberi Anda gambaran tentang pelajaran apa yang akan diperoleh melalui program sertifikasi ini.Pada akhir kursus ini, Anda akan dapat:
+● memahami cara kerja sistem biner
+● merakit komputer dari awal
+● memilih dan menginstal sistem operasi di komputer
+● memahami apa itu Internet, cara kerjanya, dan dampaknya di dunia modern
+● mempelajari bagaimana aplikasi dibuat dan bagaimana suatu aplikasi bekerja di dalam komputer
+● menggunakan metode pemecahan masalah dan soft skill dalam bidang Teknologi Informasi"
+https://www.coursera.org/professional-certificates/sertifikat-it-support-profesional-google,IT Support Google,18672,Google,3130,"Bersiaplah untuk berkarier di bidang IT yang sedang tumbuh pesat, tidak diperlukan pengalaman atau gelar apa pun di sini. Dengan pelatihan profesional yang dirancang Google, bergeraklah di jalur cepat untuk mendapatkan pekerjaan dengan gaji yang kompetitif. Melalui 5 materi yang ada, Anda dapat memperoleh keterampilan yang banyak dibutuhkan dan siap bekerja di tingkat pemula. Hanya membutuhkan waktu kurang dari 10 jam per minggu, dan Anda dapat memperoleh sertifikat dalam waktu kurang dari 6 bulan. Setelah menyelesaikan program sertifikasi ini, Anda bisa mendapatkan kesempatan untuk bekerja dengan mitra konsorsium Google dari berbagai industri.75% Lulusan Program Sertifikat Google di Amerika Serikat melaporkan adanya peningkatan karier dalam waktu 6 bulan setelah mereka memperoleh sertifikat.
+
+Program ini juga mempersiapkan Anda untuk mengikuti ujian CompTIA A+, sertifikasi standar industri bidang IT—Anda akan mendapatkan kredensial ganda saat menyelesaikan keduanya.
+
+Program ini disetujui ACE®—saat Anda menyelesaikannya, Anda dapat memperoleh hingga 12 kredit perguruan tinggi, setara dengan 4 materi untuk level associate.
+
+Lihat semua program Sertifikasi Karier Google di sini. Kutipan: *berdasarkan respons survei lulusan program, Amerika Serikat 2021"
+https://www.coursera.org/professional-certificates/suporte-em-ti-do-google,Suporte em TI do Google,24734,Google,3631,"Este certificado de cinco cursos, desenvolvido pelo Google, inclui um currículo inovador projetado para prepará-lo para uma função de nível básico em suporte de TI. Uma posição na área de TI pode ser um serviço de apoio pessoalmente ou remoto em uma pequena empresa ou em uma empresa global como o Google. Se você já lida com TI por algum tempo, ou é novo no campo, você veio ao lugar certo. O programa faz parte do Cresça com o Google, uma iniciativa do Google para ajudar a criar oportunidades econômicas.Através de uma mistura de palestras em vídeo, questionários e laboratórios e widgets práticos, o programa apresentará soluções de problemas e atendimento ao cliente, redes, sistemas operacionais, administração de sistemas e segurança. Ao longo do caminho, você aprenderá de Googlers com históricos exclusivos cuja base no suporte de TI serviu como um ponto de partida para suas carreiras.
+
+Ao dedicar 5 horas por semana, você pode concluir o certificado em cerca de seis meses. Você pode pular o conteúdo que já sabe e fazer mais cedo os exames de avaliação.
+
+O conteúdo do Certificado Profissional de Suporte em TI do Google está sob a Licença Internacional de Atribuição 4.0 da Creative Commons.
+
+75% dos alunos que obtêm os Certificados do Google nos Estados Unidos relatam uma melhora em suas carreiras dentro de um intervalo de 6 meses após a obtenção da certificação.
+
+Fonte: *baseado nas respostas de pesquisa com os graduados pelo programa, Estados Unidos, 2021"
+https://www.coursera.org/learn/fundamentos-dados-dados-em-todos-os-lugares,"Fundamentos: dados, dados, em todos os lugares",15881,Google,753,"Este é o primeiro curso do Certificado de análise de dados do Google. Estes cursos darão a você as habilidades necessárias para se candidatar em empregos de analista de dados de nível introdutório. Organizações de todos os tipos precisam de analistas de dados para ajudá-las a melhorar os processos, identificar oportunidades e tendências, lançar novos produtos e tomar decisões conscientes. Neste curso, você conhecerá o mundo da análise de dados com um currículo prático desenvolvido pelo Google. O material compartilhado abrange muitos tópicos importantes de análise de dados e foi projetado para oferecer uma visão geral do que está por vir no Certificado de análise de dados do Google. Os analistas de dados do Google vão instruir e oferecer maneiras práticas de realizar tarefas comuns de analistas de dados com as melhores ferramentas e recursos.Os alunos que concluírem este programa de certificação poderão se candidatar a empregos de nível introdutório para analista de dados. Nenhuma experiência anterior é necessária.
+
+Ao final deste curso, você poderá:
+- Ter uma compreensão das práticas e dos processos utilizados por um analista de dados júnior ou associado no trabalho cotidiano. 
+- Aprender sobre as principais habilidades (limpeza, análise e visualização de dados) e ferramentas (planilhas, SQL, programação R, Tableau) analíticas que você pode incluir às ferramentas profissionais que já tem. 
+- Descobrir uma ampla variedade de termos e conceitos relevantes para a função de analista de dados júnior, como o ciclo de vida e o processo de análise de dados. 
+- Avaliar o papel da análise no ecossistema de dados. 
+- Realizar uma autoavaliação de pensamento analítico. 
+- Explorar as oportunidades de emprego disponíveis após a conclusão do programa e aprender sobre as práticas recomendadas na procura de uma vaga."
+https://www.coursera.org/learn/seluk-beluk-jaringan-komputer,Seluk Beluk Jaringan Komputer,9325,Google,871,"Materi ini dirancang untuk memberikan gambaran lengkap tentang jaringan komputer. Kami akan membahas semua mulai dari dasar-dasar teknologi dan protokol jaringan modern kemudian gambaran umum cloud hingga aplikasi praktis dan pemecahan masalah jaringan. Pada akhir materi ini, Anda akan dapat:
+● menggambarkan jaringan komputer dalam bentuk model lima lapis
+● memahami semua protokol standar yang terlibat dengan komunikasi TCP/IP
+● menguasai alat dan teknik pemecahan masalah yang tepat
+● mempelajari layanan jaringan seperti DNS dan DHCP yang membuat jaringan komputer berfungsi
+● memahami komputasi cloud, semua layanan terkait, dan penyimpanan cloud"
+https://www.coursera.org/learn/sistem-operasi-dan-anda-menjadi-pengguna-yang-berdaya,Sistem Operasi dan Anda: Menjadi Pengguna yang Berdaya,7315,Google,516,"Dalam materi ini — melalui kombinasi pembelajaran melalui video, demonstrasi, dan praktik langsung — Anda akan belajar tentang komponen utama sistem operasi dan cara melakukan sejumlah tugas penting seperti mengelola perangkat lunak dan pengguna, serta mengonfigurasi perangkat keras. Pada akhir materi ini, Anda akan mampu :
+● menavigasi sistem file Windows dan Linux menggunakan graphical user interface dan command line interpreter
+● menyiapkan pengguna, kelompok, dan izin untuk akses akun
+● menginstal, mengonfigurasi, dan menghapus perangkat lunak pada sistem operasi Windows dan Linux
+● mengonfigurasi partisi disk dan sistem file
+● memahami bagaimana cara kerja proses sistem dan cara mengelolanya
+● bekerja dengan log sistem dan alat koneksi jarak jauh
+● memanfaatkan pengetahuan sistem operasi untuk memecahkan masalah umum sebagai IT Support Specialist"
+https://www.coursera.org/learn/administrasi-sistem-dan-layanan-infrastruktur-ti,Administrasi Sistem dan Layanan Infrastruktur TI,6645,Google,466,"Materi ini akan membantu Anda beralih dari hanya mengerjakan satu komputer menjadi menangani seluruh armada komputer. Administrasi sistem adalah bidang TI yang bertanggung jawab atas pemeliharaan sistem komputer yang andal di lingkungan multi-pengguna. Pada materi ini, Anda akan belajar tentang layanan infrastruktur yang membuat semua organisasi, baik besar maupun kecil, tetap aktif dan berjalan. Kita akan membahas lebih jauh mengenai cloud sehingga Anda akan memahami semuanya, mulai dari penyiapan infrastruktur cloud hingga cara mengelola sumber daya cloud. Anda juga akan mempelajari cara mengelola dan mengonfigurasi server serta cara menggunakan perangkat TI untuk mengelola komputer, informasi pengguna, dan produktivitas pengguna. Terakhir, Anda akan mempelajari cara memulihkan infrastruktur organisasi TI Anda jika terjadi bencana.Pada akhir materi ini, Anda akan mampu :
+● memanfaatkan praktik terbaik dalam memilih perangkat keras, vendor, dan layanan untuk organisasi Anda
+● memahami cara kerja layanan infrastruktur yang paling umum dalam menjaga organisasi tetap
+aktif dan berjalan, serta cara mengelola server infrastruktur
+● memahami cara memaksimalkan cloud untuk organisasi Anda
+● mengelola komputer dan pengguna organisasi menggunakan layanan direktori,
+Active Directory dan OpenLDAP
+● memilih dan mengelola alat yang akan digunakan organisasi Anda
+● membuat cadangan data organisasi Anda dan tahu cara memulihkan infrastruktur TI Anda jika
+terjadi bencana
+● memanfaatkan pengetahuan administrasi sistem untuk merencanakan dan menyempurnakan proses di lingkungan TI"
+https://www.coursera.org/professional-certificates/ibm-technical-support,IBM Technical Support ,10148,IBM Skills Network,402,"Get ready for a rewarding career in Information Technology (IT) - no experience or degree is required to get started. With over 400,000 US job openings and an average entry-level salary of $52,000¹ Computer Support Specialists are in high demand with opportunities for career advancement. This Professional Certificate program from IBM was built by experts to prepare you for an entry-level job in Technical Support. When dedicating a few hours per week, you can complete the program in 3 to 6 months, and develop job-ready skills employers look for. Whether you are just starting out your career or changing jobs, this program enables you to develop a strong foundation in IT fundamentals, networking, cybersecurity and cloud computing, which are also required skills for many other technology jobs including Software Engineer, Data Analyst and Data Scientist. When you successfully complete the program you’ll receive dual credentials, a Professional Certificate to showcase your job readiness to potential employers, as well as an IBM Digital Badge that will help your profile stand out. You will also gain access to career and job placement resources upon completion, which will guide you with developing your resume, promoting your new skills, and help you in your job search.
+
+¹US Burning Glass Labor Insight Report salary data (median with 0-5 years experience) and job opening data. Data for job roles relevant to featured programs (4/01/2021 - 3/31/22)."
+https://www.coursera.org/specializations/ijaut,Juniper Networks Junos Platform Automation and DevOps,0,Juniper Networks,11,"This specialization demonstrates the basics of Junos OS DevOps automation Tools, protocols and technologies. This specialization covers basic DevOps principles, Junos APIs, and the Network Configuration Protocol (NETCONF). It focuses on using Python, Junos PyEZ, Ansible, and the Junos Representational State Transfer (REST) API to automate Junos platforms. Extensible Markup Language (XML), JavaScript Object Notation (JSON), and YAML Ain't Markup Language (YAML) are introduced as data formats that facilitate Junos automation."
+https://www.coursera.org/learn/oraclecloud-infrastructure-foundations,Oracle Cloud Infrastructure Foundations,10757,Oracle,132,"Welcome to the course OCI Foundations Course. This course is a starting point to prepare you for the Oracle Cloud Infrastructure Foundations Associate Certification. Begin with an introduction of the OCI platform, and then dive into the core primitives, compute, storage, networking, identity, databases, security, and more."
+https://www.coursera.org/professional-certificates/palo-alto-networks-cybersecurity-fundamentals,Palo Alto Networks Cybersecurity,6050,Palo Alto Networks,197,"The Palo Alto Networks Cybersecurity Professional Certificate prepares students for entry level careers in cybersecurity, with an emphasis on learning the fundamentals of Networking, Network Security, Cloud Security, and Security Operations related to Palo Alto Networks Technology and the cybersecurity industry as a whole.The Cybersecurity Specialization courses including access to additional resources can be used to prepare for the Palo Alto Networks Certified Cybersecurity Entry-Level Technician (PCCET) examination available through Pearson VUE."
+https://www.coursera.org/professional-certificates/google-it-support,Google IT Support,1105233,Google,146123,"Prepare for a career in the high-growth field of IT, no experience or degree required. Get professional training designed by Google and get on the fast-track to a competitively paid job. There are 400,000 U.S. job openings in IT and a $52,000 median entry-level salary in IT support.¹Over 5 courses, learn in-demand skills that prepare you for an entry-level job. Upon completion, you can directly apply for jobs with Google and over 150 U.S. employers, including Walmart, Best Buy, and Astreya.
+
+75% of Google Career Certificate Graduates in the United States report an improvement in their career trajectory (e.g. new job or career, promotion or raise) within 6 months of certificate completion²
+
+This program also prepares you for the CompTIA A+ exams, the industry standard certification for IT—you’ll earn a dual credential when you complete both.
+
+This program is ACE® approved—when you complete, you can earn up to 12 college credits, the equivalent of 4 associate degree-level courses.
+
+If you’re interested in building on your IT foundations, check out the Google IT Automation with Python Professional Certificate.
+
+Check out all Google Career Certificates here.
+
+¹US Burning Glass Labor Insight Report salary data (median with 0-5 years experience) and job opening data. Data for job roles relevant to featured programs (4/01/2021 - 3/31/22).
+
+²Based on program graduate survey responses, United States 2021"
+https://www.coursera.org/professional-certificates/google-it-automation,Google IT Automation with Python,485471,Google,28839,"This beginner-level, six-course certificate, developed by Google, is designed to provide IT professionals with in-demand skills -- including Python, Git, and IT automation -- that can help you advance your career.Knowing how to write code to solve problems and automate solutions is a crucial skill for anybody in IT. Python, in particular, is now the most in-demand programming language by employers.
+
+This program builds on your IT foundations to help you take your career to the next level. It’s designed to teach you how to program with Python and how to use Python to automate common system administration tasks. You'll also learn to use Git and GitHub, troubleshoot and debug complex problems, and apply automation at scale by using configuration management and the Cloud.
+
+This certificate can be completed in about 6 months and is designed to prepare you for a variety of roles in IT, like more advanced IT Support Specialist or Junior Systems Administrator positions. Upon completion, you can share your information with potential employers, like Walmart, Sprint, Hulu, Bank of America, Google (of course!), and more.
+
+We recommend that you have Python installed on your machine. For some courses, you’ll need a computer where you can install Git or ask your administrator to install it for you.
+
+If you’d like to learn the fundamentals of IT support, check out the beginner level Google IT Support Professional Certificate.
+
+Check out all Google Career Certificates here."
+https://www.coursera.org/learn/technical-support-fundamentals,Technical Support Fundamentals,1282262,Google,127729,"This course is the first of a series that aims to prepare you for a role as an entry-level IT Support Specialist. In this course, you’ll be introduced to the world of Information Technology, or IT. You’ll learn about the different facets of Information Technology, like computer hardware, the Internet, computer software, troubleshooting, and customer service. This course covers a wide variety of topics in IT that are designed to give you an overview of what’s to come in this certificate program.By the end of this course, you’ll be able to:
+● understand how the binary system works
+● assemble a computer from scratch
+● choose and install an operating system on a computer
+● understand what the Internet is, how it works, and the impact it has in the modern world
+● learn how applications are created and how they work under the hood of a computer
+● utilize common problem-solving methodologies and soft skills in an Information Technology setting"
+https://www.coursera.org/learn/healthcare-it,Health Care IT: Challenges and Opportunities,17923,Icahn School of Medicine at Mount Sinai,450,"A strong argument can be made that the health care field is one of the most information-intensive sectors in the U.S. economy and avoidance of the rapid advances in information technology is no longer an option. Consequently, the study of health care information technology and systems has become central to health care delivery effectiveness. This course covers the modern application of information technology that is critical to supporting the vision and operational knowledge of the health care leaders in managing the health care organization. Heath care decision-makers have to meet head-on the dynamic challenges of health care delivery quality, cost, access, and regulatory control. Additionally, this course integrates the Healthcare Information System as integral to the Quality Assurance Tracking Programs including measurement of systems inputs, processes, and outputs with special emphasis on systems outcomes research and organizational accountability to its various stakeholders, not the least of which are government regulators."
+https://www.coursera.org/learn/site-reliability-engineering-slos,Site Reliability Engineering: Measuring and Managing Reliability,42425,Google Cloud,798,"Service level indicators (SLIs) and service level objectives (SLOs) are fundamental tools for measuring and managing reliability. In this course, students learn approaches for devising appropriate SLIs and SLOs and managing reliability through the use of an error budget."
+https://www.coursera.org/learn/uva-darden-customer-centric-it-strategy,Customer-Centric IT Strategy,18996,University of Virginia,599,"Now more than ever, corporations are investing heavily in IT. The quality of these investments affect the daily work of millions, yet it’s not uncommon to see industry surveys where the failure rates for IT projects is over 50%. It’s possible to do better and it’s possible to do so consistently. In this two-week course, we’ll step through major challenges within corporate IT and how to address them with the disciplined use of design thinking, Lean Startup, and agile as a team framework. By the end of this course, developed at the Darden School of Business at the University of Virginia and taught by top-ranked faculty, you’ll be able to: 
+Use the Business Model Canvas to focus your company strategy and facilitate buy-in from stakeholders
+Translate your work on the Canvas to specific charters in IT
+Rapidly prototype strategically-aligned processes for implementation within your IT infrastructure
+
+Please Note: This is a short-form course, two weeks in duration."
+https://www.coursera.org/learn/uva-darden-continous-delivery-devops,Continuous Delivery & DevOps ,73616,University of Virginia,1525,"Amazon famously delivers new code every 11.6 seconds. Just a few years ago, this was unthinkable: many ‘cutting edge’ firms would release software quarterly. When it comes to digital innovation, velocity is critical and many would say it’s the most reliable determinant of success. Bringing an organization to the state of the art (or even functional capability) in this area requires strong work in a combination of disciplines and a combination of both technical and managerial skills. There is no single cookie-cutter approach for achieving this capability. Much like agile, the right focus and formulation depends a lot on the facts and circumstances of the team. This course, developed at the Darden School of Business at the University of Virginia and taught by top-ranked faculty, will provide you with the interdisciplinary skill set to cultivate a continuous deployment capability in your organization. 
+
+After completing this course, you will be able to: 
+1. Diagnose a team’s delivery pipeline and bring forward prioritized recommendations to improve it
+2. Explain the skill sets and roles involved in DevOps and how they contribute toward a continuous delivery capability
+3. Review and deliver automation tests across the development stack
+4. Explain the key jobs of system operations and how today’s leading techniques and tools apply to them
+5. Explain how high-functioning teams use DevOps and related methods to reach a continuous delivery capability 
+6. Facilitate prioritized, iterative team progress on improving a delivery pipeline"
+https://www.coursera.org/learn/2-speed-it,"Two Speed IT: How Companies Can Surf the Digital Wave, a BCG Perspective",21142,CentraleSupélec,149,"Transform or disappear, the Darwinism of IT: In order to adapt to a digital world, a two-speed IT is needed.Despite the importance of IT in today’s digital world, Chief Information Officers (CIOs) often struggle to get their voices heard by executive committees.
+Faced with this challenge, IT departments are being forced to reinvent themselves to adapt their companies to the fast paced evolution of technology. The Boston Consulting Group has developed a business approach that allows IT to shed off its appearance of a heavy cost center and to adopt a new, more realistic persona as a quality service provider, partnering with users and the management.
+Would you be a professional, a student in engineering, a student in a business schools or would you just be interested in digital transformation and its implications on IT, Learn with three BCG experts why and how to manage an IT department as a business in order to transform a company and adapt it to a digital world.
+
+Join the conversation: #2SpeedIT"
+https://www.coursera.org/projects/googlecloud-managing-deployments-using-kubernetes-engine-lfjkj,Managing Deployments Using Kubernetes Engine,0,Google Cloud,0,This is a self-paced lab that takes place in the Google Cloud console. Dev Ops best practices make use of multiple deployments to manage application deployment scenarios. This lab provides practice in scaling and managing containers to accomplish common scenarios where multiple heterogeneous deployments are used.
+https://www.coursera.org/projects/googlecloud-cloud-storage-qwik-start-cloud-console-s8hyv,Cloud Storage: Qwik Start - Cloud Console,0,Google Cloud,0,This is a self-paced lab that takes place in the Google Cloud console. This hands-on lab shows you how to perform basic tasks in Cloud Storage using the Google Cloud Console. Watch the short video Google Cloud Storage: Massive Scalability Plus More.
+https://www.coursera.org/projects/googlecloud-cloud-monitoring-qwik-start-vksyn,Cloud Monitoring: Qwik Start,0,Google Cloud,0,"This is a self-paced lab that takes place in the Google Cloud console. This lab shows you how to monitor a Google Compute Engine virtual machine (VM) instance with Cloud Monitoring. Watch the short videos Monitor Health of All Your Cloud Apps with Google Cloud monitoring and Monitor a VM Instance with Cloud monitoring, GCP Essentials."
+https://www.coursera.org/projects/googlecloud-using-bigquery-in-the-google-cloud-console-th5it,Using BigQuery in the Google Cloud Console,0,Google Cloud,0,"This is a self-paced lab that takes place in the Google Cloud console.
+
+This lab shows you how to query public tables and load sample data into BigQuery using the GCP Console. Watch the following short video Get Meaningful Insights with Google BigQuery."
+https://www.coursera.org/projects/googlecloud-compute-engine-qwik-start-windows-5jkcv,Compute Engine: Qwik Start - Windows,0,Google Cloud,0,"This is a self-paced lab that takes place in the Google Cloud console. Google Compute Engine lets you create and run virtual machines on Google infrastructure. In this lab you create a Windows Server instance in the Google Compute Engine and access it with RDP. Watch a short preview, Launch a Windows Server Instance, GCP Essentials."
+https://www.coursera.org/projects/googlecloud-getting-started-with-cloud-shell-and-gcloud-vutla,Getting Started with Cloud Shell and gcloud,0,Google Cloud,0,"This is a self-paced lab that takes place in the Google Cloud console. In this hands-on lab you will learn how to connect to computing resources hosted on Google Cloud Platform via the web. You will also learn how to use Cloud Shell and the Cloud SDK gcloud command. For a preview, watch the short video Get Started with Cloud Shell, GCP Essentials."
+https://www.coursera.org/projects/googlecloud-kubernetes-engine-qwik-start-6slqv,Kubernetes Engine: Qwik Start,0,Google Cloud,0,"This is a self-paced lab that takes place in the Google Cloud console.
+
+Google Kubernetes Engine provides a managed environment for deploying, managing, and scaling your containerized applications using Google infrastructure.  This hands-on lab shows you how deploy a containerized application with Kubernetes Engine."
+https://www.coursera.org/projects/googlecloud-set-up-network-and-http-load-balancers-bxmxh,Set Up Network and HTTP Load Balancers,0,Google Cloud,0,"This is a self-paced lab that takes place in the Google Cloud console. In this hands-on lab, you'll learn how setup both network load balancers and HTTP load balancers for your application running in Compute Engine virtual machines."
+https://www.coursera.org/projects/googlecloud-ai-platform-qwik-start-8jbdr,AI Platform: Qwik Start,0,Google Cloud,0,This is a self-paced lab that takes place in the Google Cloud console. In this lab you train and deploy a TensorFlow model to AI Platform for serving (prediction). Watch these short videos Harness the Power of Machine Learning with AI Platform and AI Platform: Qwik Start - Qwiklabs Preview.
+https://www.coursera.org/projects/googlecloud-cloud-iam-qwik-start-msvg9,Cloud IAM: Qwik Start,0,Google Cloud,0,This is a self-paced lab that takes place in the Google Cloud console. Google Cloud IAM unifies access control for Cloud Platform services into a single system to present a consistent set of operations. Watch the short video Manage Access Control with Google Cloud IAM.
+https://www.coursera.org/projects/googlecloud-introduction-to-sql-for-bigquery-and-cloud-sql-dmxlm,Introduction to SQL for BigQuery and Cloud SQL,1921,Google Cloud,0,"This is a self-paced lab that takes place in the Google Cloud console.
+
+In this lab you will learn fundamental SQL clauses and will get hands on practice running structured  queries on BigQuery and Cloud SQL."
+https://www.coursera.org/learn/what-is-the-metaverse,What is the Metaverse?,12827,Meta,16,"The metaverse isn’t just for gamers or developers, it will be for everyone. In this free course from the experts at Meta, you’ll learn what the metaverse is, what it means for our world today and into the future, and the opportunities it presents for both professionals and businesses.  Understand the metaverse fundamentals
+Experts will guide you through a broad range of topics spanning the metaverse ecosystem, from communication and collaboration to NFTs and cryptocurrency, from avatars and devices to platforms and game engines. You’ll learn about augmented reality (AR), virtual reality (VR), extended reality, NFTs, blockchain, web3, cryptocurrency, and more. 
+
+Discover new ways to connect, learn, and work 
+The metaverse provides new ways to connect people, websites, platforms and realities. You’ll explore how it will enhance online social experiences, the future of work and learning. 
+
+Opportunities for professionals and businesses
+The metaverse will be built by everyone, with creative and practical applications being developed every day by imaginative people. Learn how the metaverse will be applied in areas like healthcare, education, city planning, art, and more—and how you can start creating these experiences today. You’ll also learn how the metaverse can make the world a more diverse, equitable, and inclusive place.
+
+By the end of the course, you’ll be equipped with the fundamental  knowledge of the metaverse to determine future areas of interest, learning, or professional growth."
+https://www.coursera.org/professional-certificates/google-cloud-developer,Preparing for Google Cloud Certification: Cloud Developer,0,Google Cloud,57,"A Cloud Developer designs, builds, analyzes, and maintains cloud-native applications. This learning path guides you through a curated collection of on-demand courses, labs, and skill badges that provide you with real-world, hands-on experience using Google Cloud technologies essential to the Cloud Developer role. Once you complete the path, check out the Google Cloud Developer certification to take the next steps on your professional journey."
+https://www.coursera.org/professional-certificates/meta-front-end-developer,Meta Front-End Developer,56528,Meta,3280,"Want to get started in the world of coding and build beautiful websites as a career? This 9-course program, designed by the software engineering experts at Meta, will prepare you for a career as a front-end developer.
+
+Once you complete the program, you’ll get access to the Meta Career Programs Job Board—a job search platform that connects you with 200+ employers who have committed to sourcing talent through Meta’s certificate programs, as well as career support resources to help you with your job search.
+
+In this program, you’ll learn:
+
+How to code and build interactive web pages using HTML5, CSS and JavaScript. In-demand design skills to create professional page layouts using industry-standard tools such as Bootstrap, React, and Figma. GitHub repositories for version control, content management system (CMS) and how to edit images using Figma. How to prepare for technical interviews for front-end developer roles.
+
+By the end, you’ll put your new skills to work by completing a real-world project where you’ll create your own front-end web application.
+
+Any third-party trademarks and other intellectual property (including logos and icons) referenced in the learning experience remain the property of their respective owners. Unless specifically identified as such, Coursera’s use of third-party intellectual property does not indicate any relationship, sponsorship, or endorsement between Coursera and the owners of these trademarks or other intellectual property."
+https://www.coursera.org/professional-certificates/aws-cloud-solutions-architect,AWS Cloud Solutions Architect ,0,Amazon Web Services,2990,"This professional certificate provides the knowledge and skills you need to start building your career in cloud architecture and helps you prepare for the AWS Certified Solutions Architect - Associate exam. You will start by learning key AWS Services for compute, storage, database, networking, monitoring, and security, then dive into how to design architectural solutions, how to create and operate a data lake, and how to prepare for the certification exam.
+
+The AWS Certified Solutions Architect – Associate certification showcases knowledge and skills in AWS technology across a wide range of AWS services. The certification focuses on the design of cost and performance optimized solutions and demonstrating a strong understanding of the AWS Well-Architected Framework. This AWS Certification is one of the top-paying IT certifications, per the SkillSoft IT Skills and Salary report. Per Enterprise Strategy Group, surveyed AWS Certification holders credited their certification for their higher earnings (74%), increased confidence (87%), and increased influence among coworkers (79%).
+
+To prepare for your AWS Certification exam, we recommend that — in addition to attaining this professional certificate — candidates review the free exam guide, sample questions, and AWS technical documentation (e.g. white papers and product FAQs) on the AWS Certified Solutions Architect - Associate exam page to understand what content and services are covered by the exam."
+https://www.coursera.org/professional-certificates/ibm-technical-support,IBM Technical Support ,10148,IBM Skills Network,402,"Get ready for a rewarding career in Information Technology (IT) - no experience or degree is required to get started. With over 400,000 US job openings and an average entry-level salary of $52,000¹ Computer Support Specialists are in high demand with opportunities for career advancement. This Professional Certificate program from IBM was built by experts to prepare you for an entry-level job in Technical Support. When dedicating a few hours per week, you can complete the program in 3 to 6 months, and develop job-ready skills employers look for. Whether you are just starting out your career or changing jobs, this program enables you to develop a strong foundation in IT fundamentals, networking, cybersecurity and cloud computing, which are also required skills for many other technology jobs including Software Engineer, Data Analyst and Data Scientist. When you successfully complete the program you’ll receive dual credentials, a Professional Certificate to showcase your job readiness to potential employers, as well as an IBM Digital Badge that will help your profile stand out. You will also gain access to career and job placement resources upon completion, which will guide you with developing your resume, promoting your new skills, and help you in your job search.
+
+¹US Burning Glass Labor Insight Report salary data (median with 0-5 years experience) and job opening data. Data for job roles relevant to featured programs (4/01/2021 - 3/31/22)."
+https://www.coursera.org/professional-certificates/meta-android-developer,Meta Android Developer,7656,Meta,268,"Have you ever wanted to build your own mobile app? This Professional Certificate will teach you the top Android programming languages and frameworks. By the end, you’ll create your own Android application.
+
+Once you complete the program, you’ll get access to the Meta Career Programs Job Board—a job search platform that connects you with 200+ employers who have committed to sourcing talent through Meta’s certificate programs, as well as career support resources to help you with your job search.
+
+In this program, you’ll learn:
+
+Essential Android programming concepts and the tools needed to develop applications How to use the Kotlin Playground Create user interfaces (UI) for mobile apps using Android Studio Manage the lifecycle and data collections of mobile applications Work with web technologies and persistent data on Android applications Describe best practices for designing the UI and experience for mobile applications Create cross-platform applications using React Native Prepare for technical interviews for Android developer roles
+
+Any third-party trademarks and other intellectual property (including logos and icons) referenced in the learning experience remain the property of their respective owners. Unless specifically identified as such, Coursera’s use of third-party intellectual property does not indicate any relationship, sponsorship, or endorsement between Coursera and the owners of these trademarks or other intellectual property."
+https://www.coursera.org/professional-certificates/meta-ios-developer,Meta iOS Developer,7245,Meta,323,"Have you ever wanted to build your own mobile app? This Professional Certificate will teach you how to build applications for iOS devices and start a new career as an iOS Developer. By the end of this program, you’ll be able to create and run a mobile app powered by iOS operating systems.
+
+Once you complete the program, you’ll get access to the Meta Career Programs Job Board—a job search platform that connects you with 200+ employers who have committed to sourcing talent through Meta’s certificate programs, as well as career support resources to help you with your job search.
+
+In this program, you’ll learn:
+
+Essential iOS programming concepts and the tools needed to develop applications Create user interfaces (UIs) for mobile apps using SwiftUI Manage the lifecycle and data collections of mobile applications Work with web technologies and manage data on iOS applications Build an iOS app Create cross-platform applications using React Native Prepare for technical interviews for iOS developer roles
+
+Any third-party trademarks and other intellectual property (including logos and icons) referenced in the learning experience remain the property of their respective owners. Unless specifically identified as such, Coursera’s use of third-party intellectual property does not indicate any relationship, sponsorship, or endorsement between Coursera and the owners of these trademarks or other intellectual property."
+https://www.coursera.org/learn/no-code-ml-aws,Practical Decision-Making Using No-code ML on AWS,0,Amazon Web Services,0,"In this course, you will discover how to solve business problems with machine learning, no coding required. You will explore Amazon SageMaker Canvas, a visual point-and-click interface that allows you to generate accurate ML predictions without requiring any machine learning experience or having to write a single line of code. At the end of the course, you will walk away understanding how to make better business decisions using no-code machine learning."
+https://www.coursera.org/specializations/cloud-native-development-openshift-kubernetes,Cloud-Native Development with OpenShift and Kubernetes,0,Red Hat,21,"This specialization is intended for application developers, system administrators and architects seeking to develop their understanding of container technology. In this three-course specialization, you will explore a range of foundational concepts from various use cases for containerized technology to understanding the differences between Kubernetes and Red Hat OpenShift to learning how to scale deployed applications."
+https://www.coursera.org/learn/building-no-code-apps-with-appsheet-foundations,Building No-Code Apps with AppSheet: Foundations,4870,Google Cloud,86,"In this course you will learn the fundamentals of no-code app development and recognize use cases for no-code apps. The course provides an overview of the AppSheet no-code app development platform and its capabilities. You learn how to create an app with data from spreadsheets, create the app’s user experience using AppSheet views and publish the app to end users."
+https://www.coursera.org/specializations/software-engineering-fundamentals,Applied Software Engineering Fundamentals,1625,IBM Skills Network,101,"If you want to enter the exciting world of software development, this Software Engineering Foundations Specialization is for you. No prior degrees or knowledge of programming or application development are necessary. Software Developers are in great demand earning a median salary of US$110,140 per year according to the US Bureau of Labor and Statistics. The field is growing at a rate of 22% making it a great time to start a career in software engineering.. The self-paced courses in this program provide the foundations to prepare for a wide range of IT & software development related careers, including web development, mobile application development, front-end, back-end, and full stack application development, software testing & quality assurance (QA), as well as DevOps engineering. This specialization is full of engaging videos, hands-on labs, and real-world projects that explore fundamental programming principles and foundations of design, architecture, and deployment; the software development lifecycle; Git and GitHub repositories; using the Linux terminal and creating Bash shell scripts to automate a variety of tasks; and coding with the Python programming language. The program is suitable for those new to software engineering or for those who would like a review of software engineering fundamentals. It prepares you with an introduction to the culture, technology, and job-ready skills needed to become successful in software engineering.   "
+https://www.coursera.org/professional-certificates/meta-database-engineer,Meta Database Engineer,9752,Meta,276,"Want to get started in the world of database engineering? This program is taught by industry-recognized experts at Meta. You’ll learn the key skills required to create, manage and manipulate databases, as well as industry-standard programming languages and software such as SQL, Python, and Django.
+
+Upon completion, you’ll get access to the Meta Career Programs Job Board—a job search platform that connects you with 200+ employers who have committed to sourcing talent through Meta’s certificate programs, as well as career support resources to help you with your job search.
+
+In this program, you’ll learn:
+
+Core techniques and methods to structure and manage databases. Advanced techniques to write database driven applications and advanced data modeling concepts. MySQL database management system (DBMS) and data creation, querying and manipulation. How to code and use Python Syntax How to prepare for technical interviews for database engineer roles.
+
+Any third-party trademarks and other intellectual property (including logos and icons) referenced in the learning experience remain the property of their respective owners. Unless specifically identified as such, Coursera’s use of third-party intellectual property does not indicate any relationship, sponsorship, or endorsement between Coursera and the owners of these trademarks or other intellectual property."

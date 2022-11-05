@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.3.1/dist/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+
+    <title>Download List</title>
+</head>
+<body>
+
+<div class="container">
+        <div class="row">
+            <div class="col">
+
+                <div class="mb-3  mt-3">
+
+                    <h2 class="mb-3"  style="font-weight: 300">Download List</h2>
+                    <table class="table table-striped" id="html-data-table">
+                      <thead>
+                        <tr>
+                          <!--<th scope="col">#</th>-->
+                          <th scope="col">Category</th>
+                          <th scope="col">Date</th>
+                          <th scope="col">Message</th>
+                          <th scope="col">Download Link</th>
+                        </tr>
+                      </thead>
+                      <tbody>
+                      </tbody>
+                    </table>
+
+            </div>
+
+        </div>
+    </div>
+
+
+    <script type="text/javascript" charset="utf-8">
+
+        function getCookie(cname) {
+          let name = cname + "=";
+          let decodedCookie = decodeURIComponent(document.cookie);
+          let ca = decodedCookie.split(';');
+          for(let i = 0; i <ca.length; i++) {
+            let c = ca[i];
+            while (c.charAt(0) == ' ') {
+              c = c.substring(1);
+            }
+            if (c.indexOf(name) == 0) {
+              return c.substring(name.length, c.length);
+            }
+          }
+          return "";
+        }
+
+        var courses_download_list = getCookie("courses_download_list");
+        courses_download_list = JSON.parse(courses_download_list)
+        var rows = "";
+        $.each(courses_download_list, function(){
+            rows += "<tr><td>" + this.category + "</td><td>" + this.date + "</td><td>" + this.message + "</td><td>" + this.download_url + "</td></tr>";
+        });
+
+        $( rows ).appendTo( "#html-data-table tbody" );
+    </script>
+</body>
+</html>
