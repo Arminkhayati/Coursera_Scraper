@@ -13,8 +13,8 @@ Then the script will collect all courses from this category and place them into 
 *	Course name
 *	Course provider
 *	Course description
-*	# of Students enrolled
-*	# of Ratings
+*	Num of Students enrolled
+*	Num of Ratings
 
 The script will collect data from ALL courses within the category that is inputted. 
 Once finished, the script will place the CSV file on the server and provide a link to access it.
